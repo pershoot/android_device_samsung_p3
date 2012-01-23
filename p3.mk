@@ -24,6 +24,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/modules/dhd.ko:system/lib/modules/dhd.ko
 
+#p3 uses a diffrent camera then p4, overwrite p4-common
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/ueventd.p3.rc:root/ueventd.p3.rc 
+
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
 # The gps config appropriate for this device
