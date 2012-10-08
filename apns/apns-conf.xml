@@ -1,0 +1,5480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<apns version="7">
+  <apn carrier="Cosmote Wireless Internet"
+      mcc="202"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- Vodafone GR start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="VF Mobile Broadband"
+      mcc="202"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="VF KartoInternet"
+      mcc="202"
+      mnc="05"
+      apn="web.session"
+      type="default,supl"
+  />
+<!-- Vodafone GR end-->
+
+  <apn carrier="Wind Internet"
+      mcc="202"
+      mnc="10"
+      apn="gint.b-online.gr"
+      type="default,supl"
+  />
+
+<!-- Vodafone NL start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone GPRS"
+      mcc="204"
+      mnc="04"
+      apn="office.vodafone.nl"
+      user="vodafone"
+      password="vodafone"
+      type="default,supl"
+  />
+<!-- Vodafone NL end -->
+
+  <apn carrier="KPN Internet"
+      mcc="204"
+      mnc="08"
+      apn="portalmmm.nl"
+      type="default,supl"
+  />
+
+  <apn carrier="Telfort Internet"
+      mcc="204"
+      mnc="12"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile Internet"
+      mcc="204"
+      mnc="16"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet Access"
+      mcc="204"
+      mnc="20"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Rabo Mobiel"
+      mcc="204"
+      mnc="20"
+      apn="rabo.plus"
+      type="default,supl"
+  />
+
+<!-- Proximus Belgium start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="206"
+      mnc="01"
+      apn="internet.proximus.be"
+      type="default,supl"
+  />
+
+<!--
+  <apn carrier="Prepaid"
+      mcc="206"
+      mnc="01"
+      apn="event.proximus.be"
+      type="default,supl"
+  />
+  -->
+<!-- Proximus Belgium end -->
+
+  <apn carrier="Telenet Internet"
+      mcc="206"
+      mnc="05"
+      apn="telenetwap.be"
+      type="default,supl"
+  />
+
+  <apn carrier="Mobistar"
+      mcc="206"
+      mnc="10"
+      apn="mworld.be"
+      user="mobistar"
+      password="mobistar"
+      proxy="212.065.063.143"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Base"
+      mcc="206"
+      mnc="20"
+      apn="gprs.base.be"
+      user="BASE"
+      password="1234"
+      proxy="172.31.198.37"
+      port="5080"
+      type="default,supl"
+  />
+
+  <apn carrier="Virgin"
+      mcc="208"
+      mnc="01"
+      apn="ofnew.fr"
+      user="orange"
+      password="orange"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange WAP"
+      mcc="208"
+      mnc="01"
+      apn="orange"
+      user="orange"
+      password="orange"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange Internet"
+      mcc="208"
+      mnc="01"
+      apn="orange.fr"
+      user="orange"
+      password="orange"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange GPRS ISP"
+      mcc="208"
+      mnc="02"
+      apn="orange.fr"
+      type="default,supl"
+  />
+
+<!-- SFR start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="208"
+      mnc="10"
+      apn="websfr"
+      type="default,supl"
+  />
+<!--
+  <apn carrier="SFR sl2sfr"
+      mcc="208"
+      mnc="10"
+      apn="sl2sfr"
+      type="default,supl"
+  />
+-->
+  <apn carrier="SFR ipnet"
+      mcc="208"
+      mnc="10"
+      apn="ipnet"
+      type="default,supl"
+  />
+
+  <apn carrier="SFR Internetpro"
+      mcc="208"
+      mnc="10"
+      apn="internetPro"
+      type="default,supl"
+  />
+<!-- SFR end -->
+
+  <apn carrier="ACCESS DATA"
+      mcc="208"
+      mnc="11"
+      apn="websfr"
+      type="default,supl"
+  />
+
+
+  <apn carrier="ACCESS DATA"
+      mcc="208"
+      mnc="13"
+      apn="websfr"
+      type="default,supl"
+  />
+
+  <apn carrier="Bouygues Pro"
+      mcc="208"
+      mnc="20"
+      apn="a2bouygtel.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Bouygues Telecom"
+      mcc="208"
+      mnc="20"
+      apn="mmsbouygtel.com"
+      type="default,supl"
+  />
+
+  <apn carrier="BouyguesGPRS ISP"
+      mcc="208"
+      mnc="21"
+      apn="ebouygtel.com"
+      type="default,supl"
+  />
+
+  <apn carrier="BouyguesGPRS ISP"
+      mcc="208"
+      mnc="88"
+      apn="ebouygtel.com"
+      type="default,supl"
+  />
+
+<!-- Vodafone ES start-->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="INTERNET"
+      mcc="214"
+      mnc="01"
+      apn="ac.vodafone.es"
+      user="vodafone"
+      password="vodafone"
+      authtype="1"
+      type="default,supl"
+  />
+<!-- Vodafone ES end-->
+
+  <apn carrier="Orange Internet PC"
+      mcc="214"
+      mnc="03"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="GPRS Connection"
+      mcc="214"
+      mnc="04"
+      apn="internet"
+      proxy="10.8.0.36"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="INTERNET GPRS"
+      mcc="214"
+      mnc="06"
+      apn="airtelnet.es"
+      user="vodafone"
+      password="vodafone"
+      type="default,supl"
+  />
+
+  <apn carrier="Euskaltel Internet"
+      mcc="214"
+      mnc="06"
+      apn="internet.euskaltel.mobi"
+      user="CLIENTE"
+      password="EUSKALTEL"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet R"
+      mcc="214"
+      mnc="06"
+      apn="internet.mundo-r.com"
+      type="default,supl"
+  />
+
+  <apn carrier="TeleCable Internet"
+      mcc="214"
+      mnc="06"
+      apn="internet.telecable.es"
+      user="telecable"
+      password="telecable"
+      type="default,supl"
+  />
+
+  <apn carrier="Movistar"
+      mcc="214"
+      mnc="07"
+      apn="telefonica.es"
+      user="telefonica"
+      password="telefonica"
+      proxy="10.138.255.133"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Euskaltel Internet"
+      mcc="214"
+      mnc="08"
+      apn="internet.euskaltel.mobi"
+      user="CLIENTE"
+      password="EUSKALTEL"
+      type="default,supl"
+  />
+
+  <apn carrier="TeleCable Internet"
+      mcc="214"
+      mnc="16"
+      apn="internet.telecable.es"
+      user="telecable"
+      password="telecable"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor Data"
+      mcc="216"
+      mnc="01"
+      apn="net"
+      type="default,supl"
+  />
+
+  <apn carrier="Web"
+      mcc="216"
+      mnc="30"
+      apn="wnw"
+      type="default,supl"
+  />
+
+<!-- Vodafone HU start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Internet"
+      mcc="216"
+      mnc="70"
+      apn="internet.vodafone.net"
+      type="default,supl"
+  />
+
+  <apn carrier="VF Internet VitaMAX!"
+      mcc="216"
+      mnc="70"
+      apn="vitamax.internet.vodafone.net"
+      type="default,supl"
+  />
+<!-- Vodafone HU end-->
+
+  <apn carrier="T-Mobile"
+      mcc="219"
+      mnc="01"
+      apn="web.htgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="TM HR WAP"
+      mcc="219"
+      mnc="01"
+      apn="www.htgprs.hr"
+      proxy="010.012.000.003"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2"
+      mcc="219"
+      mnc="02"
+      apn="internet.tele2.hr"
+      type="default,supl"
+  />
+
+<!-- VIPNet Croatia start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Broadband"
+      mcc="219"
+      mnc="10"
+      apn="data.vip.hr"
+      type="default,supl"
+  />
+<!-- VIPNet Croatia end -->
+
+  <apn carrier="Telenor WAP"
+      mcc="220"
+      mnc="01"
+      apn="internet"
+      user="telenor"
+      password="gprs"
+      proxy="217.65.192.33"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="mt:s wap"
+      mcc="220"
+      mnc="03"
+      apn="gprswap"
+      user="mts"
+      password="064"
+      proxy="172.17.88.198"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile Internet"
+      mcc="220"
+      mnc="04"
+      apn="tmcg-wnw"
+      user="38267"
+      password="38267"
+      proxy="10.0.5.19"
+      port="8080"
+      type="default,supl"
+  />
+
+<!-- Vip.mobil Serbia start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="browse"
+      mcc="220"
+      mnc="05"
+      apn="browse"
+      type="default,supl"
+  />
+
+  <apn carrier="Vip GPRS"
+      mcc="220"
+      mnc="05"
+      apn="vipmobile"
+      user="vipmobile"
+      password="vipmobile"
+      proxy="212.15.182.82"
+      port="8080"
+      type="default,supl"
+  />
+<!-- Vip.mobil Serbia end -->
+
+  <apn carrier="TIM WEB"
+      mcc="222"
+      mnc="01"
+      apn="ibox.tim.it"
+      type="default,supl"
+  />
+
+<!-- Vodafone IT start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Internet"
+      mcc="222"
+      mnc="10"
+      apn="web.omnitel.it"
+      type="default,supl"
+  />
+<!-- Vodafone IT end -->
+
+  <apn carrier="WIND WEB"
+      mcc="222"
+      mnc="88"
+      apn="internet.wind"
+      type="default,supl"
+  />
+
+  <apn carrier="WIND BIZ WEB"
+      mcc="222"
+      mnc="88"
+      apn="internet.wind.biz"
+      type="default,supl"
+  />
+
+  <apn carrier="3"
+      mcc="222"
+      mnc="99"
+      apn="tre.it"
+      type="default,supl"
+  />
+
+<!-- Vodafone RO start-->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="226"
+      mnc="01"
+      apn="internet.vodafone.ro"
+      user="internet.vodafone.ro"
+      password="vodafone"
+      type="default,supl"
+  />
+
+  <apn carrier="Prepaid"
+      mcc="226"
+      mnc="01"
+      apn="tobe.vodafone.ro"
+      user="tobe.vodafone.ro"
+      password="vodafone"
+      type="default,supl"
+  />
+<!-- Vodafone RO end-->
+
+  <apn carrier="Cosmote Internet"
+      mcc="226"
+      mnc="03"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="web'n'walk"
+      mcc="226"
+      mnc="03"
+      apn="wnw"
+      user="wnw"
+      password="wnw"
+      proxy="10.252.1.62"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="web'n'walk"
+      mcc="226"
+      mnc="06"
+      apn="wnw"
+      user="wnw"
+      password="wnw"
+      proxy="10.252.1.62"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange Internet"
+      mcc="226"
+      mnc="10"
+      apn="net"
+      type="default,supl"
+  />
+
+<!-- Swisscom start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Swisscom Services"
+      mcc="228"
+      mnc="01"
+      apn="gprs.swisscom.ch"
+      proxy="192.168.210.001"
+      port="8080"
+      type="default,supl"
+  />
+<!-- Swisscom end -->
+
+  <apn carrier="Sunrise live"
+      mcc="228"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange"
+      mcc="228"
+      mnc="03"
+      apn="internet"
+      proxy="192.168.010.002"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile CZ"
+      mcc="230"
+      mnc="01"
+      apn="internet.t-mobile.cz"
+      user="wap"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 internet"
+      mcc="230"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- Vodafone CZ start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="GPRS Web"
+      mcc="230"
+      mnc="03"
+      apn="internet"
+      type="default,supl"
+  />
+<!-- Vodafone CZ end -->
+
+
+  <apn carrier="Orange internet"
+      mcc="231"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange World"
+      mcc="231"
+      mnc="01"
+      apn="orangewap"
+      user="wap"
+      password="wap"
+      proxy="213.151.208.156"
+      port="8799"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile internet"
+      mcc="231"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile SK"
+      mcc="231"
+      mnc="04"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange Internet"
+      mcc="231"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange World"
+      mcc="231"
+      mnc="05"
+      apn="orangewap"
+      user="wap"
+      password="wap"
+      proxy="213.151.208.156"
+      port="8799"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 SK"
+      mcc="231"
+      mnc="06"
+      apn="o2internet"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 WAP"
+      mcc="231"
+      mnc="06"
+      apn="o2wap"
+      proxy="10.97.1.11"
+      port="8080"
+      type="default,supl"
+  />
+
+<!-- A1 Telecom Austria start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="A1.net"
+      mcc="232"
+      mnc="01"
+      apn="a1.net"
+      user="ppp@a1plus.at"
+      password="ppp"
+      type="default,supl"
+  />
+<!-- A1 Telecom Austria end -->
+
+  <apn carrier="T-Mobile Internet"
+      mcc="232"
+      mnc="03"
+      apn="gprsinternet"
+      user="t-mobile"
+      password="tm"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange Web"
+      mcc="232"
+      mnc="05"
+      apn="orange.web"
+      user="web"
+      password="web"
+      type="default,supl"
+  />
+
+  <apn carrier="tele.ring web"
+      mcc="232"
+      mnc="07"
+      apn="web"
+      user="web@telering.at"
+      password="web"
+      type="default,supl"
+  />
+
+  <apn carrier="Planet3"
+      mcc="232"
+      mnc="10"
+      apn="drei.at"
+      type="default,supl"
+  />
+
+  <apn carrier="data.bob"
+      mcc="232"
+      mnc="11"
+      apn="bob.at"
+      user="data@bob.at"
+      password="ppp"
+      proxy="194.048.124.007"
+      port="8001"
+      type="default,supl"
+  />
+
+  <apn carrier="YESSS! GPRS"
+      mcc="232"
+      mnc="12"
+      apn="web.yesss.at"
+      type="default,supl"
+  />
+
+  <apn carrier="UBIQUISYS"
+      mcc="234"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 MOBILE WEB"
+      mcc="234"
+      mnc="02"
+      apn="mobile.o2.co.uk"
+      user="O2web"
+      password="O2web"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 POSTPAY"
+      mcc="234"
+      mnc="10"
+      apn="mobile.o2.co.uk"
+      user="o2web"
+      password="password"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 PREPAY"
+      mcc="234"
+      mnc="10"
+      apn="payandgo.o2.co.uk"
+      proxy="193.113.200.195"
+      port="8080"
+      user="payandgo"
+      password="password"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 MOBILE WEB"
+      mcc="234"
+      mnc="11"
+      apn="mobile.o2.co.uk"
+      user="O2web"
+      password="O2web"
+      type="default,supl"
+  />
+
+  <apn carrier="TESCO"
+      mcc="234"
+      mnc="10"
+      apn="prepay.tesco-mobile.com"
+      user="tescowap"
+      password="password"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 POSTPAY"
+      mcc="234"
+      mnc="10"
+      apn="wap.o2.co.uk"
+      user="o2wap"
+      password="password"
+      proxy="193.113.200.195"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="O2 MOBILE WEB"
+      mcc="234"
+      mnc="11"
+      apn="mobile.o2.co.uk"
+      user="O2web"
+      password="O2web"
+      type="default,supl"
+  />
+
+<!-- Vodafone UK start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract Internet"
+      mcc="234"
+      mnc="15"
+      apn="internet"
+      user="web"
+      password="web"
+      authtype="1"
+      type="default,supl"
+  />
+
+  <apn carrier="PAYG Internet"
+      mcc="234"
+      mnc="15"
+      apn="smart"
+      user="web"
+      password="web"
+      authtype="1"
+      type="default,supl"
+  />
+
+  <apn carrier="PAYG Internet Bundle"
+      mcc="234"
+      mnc="15"
+      apn="ppbundle.internet"
+      user="web"
+      password="web"
+      authtype="1"
+      type="default,supl"
+  />
+<!-- Vodafone UK end -->
+
+  <apn carrier="3 WAP"
+      mcc="234"
+      mnc="20"
+      apn="three.co.uk"
+      user="user"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile UK"
+      mcc="234"
+      mnc="30"
+      apn="general.t-mobile.uk"
+      user="t-mobile"
+      password="tm"
+      type="default,supl"
+  />
+
+  <apn carrier="Virgin Media"
+      mcc="234"
+      mnc="30"
+      apn="goto.virginmobile.uk"
+      user="user"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile Internet"
+      mcc="234"
+      mnc="31"
+      apn="general.t-mobile.uk"
+      user="t-mobile"
+      password="tm"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile Internet"
+      mcc="234"
+      mnc="32"
+      apn="general.t-mobile.uk"
+      user="t-mobile"
+      password="tm"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange internet"
+      mcc="234"
+      mnc="33"
+      apn="orangeinternet"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange internet"
+      mcc="234"
+      mnc="34"
+      apn="orangeinternet"
+      type="default,supl"
+  />
+
+  <apn carrier="pepperWEB (Jersey)"
+      mcc="234"
+      mnc="50"
+      apn="pepper"
+      type="default,supl"
+  />
+
+  <apn carrier="C&amp;W Guernsey Internet"
+      mcc="234"
+      mnc="55"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="3G HSDPA"
+      mcc="234"
+      mnc="58"
+      apn="3gpronto"
+      type="default,supl"
+  />
+
+  <apn carrier="Manx Telecom Contract WEB"
+      mcc="234"
+      mnc="58"
+      apn="web.manxpronto.net"
+      user="gprs"
+      password="gprs"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange internet"
+      mcc="234"
+      mnc="86"
+      apn="orangeinternet"
+      type="default,supl"
+  />
+
+  <apn carrier="TDC"
+      mcc="238"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="TDC Song WAP"
+      mcc="238"
+      mnc="01"
+      apn="internet.no"
+      proxy="194.182.251.15"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="TDC WAP"
+      mcc="238"
+      mnc="01"
+      apn="wap"
+      proxy="194.182.251.15"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor Internet"
+      mcc="238"
+      mnc="02"
+      apn="Internet"
+      type="default,supl"
+  />
+
+  <apn carrier="3 Locked"
+      mcc="238"
+      mnc="06"
+      apn="data.tre.dk"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet"
+      mcc="238"
+      mnc="20"
+      apn="websp"
+      type="default,supl"
+  />
+
+  <apn carrier="Telia Internet"
+      mcc="238"
+      mnc="20"
+      apn="www.internet.mtelia.dk"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor Internet"
+      mcc="238"
+      mnc="77"
+      apn="Internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Telia SE WAP"
+      mcc="240"
+      mnc="01"
+      apn="online.telia.se"
+      proxy="10.254.254.254"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Halebop Internet"
+      mcc="240"
+      mnc="017"
+      apn="halebop.telia.se"
+      type="default,supl"
+  />
+
+  <apn carrier="3"
+      mcc="240"
+      mnc="02"
+      apn="data.tre.se"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor Mobilsurf"
+      mcc="240"
+      mnc="04"
+      apn="services.telenor.se"
+      proxy="172.30.253.241"
+      port="8799"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor Mobilsurf"
+      mcc="240"
+      mnc="06"
+      apn="services.telenor.se"
+      proxy="173.30.253.241"
+      port="8799"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2"
+      mcc="240"
+      mnc="07"
+      apn="internet.tele2.no"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2"
+      mcc="240"
+      mnc="07"
+      apn="internet.tele2.se"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor Mobilsurf"
+      mcc="240"
+      mnc="08"
+      apn="services.telenor.se"
+      proxy="172.30.253.241"
+      port="8799"
+      type="default,supl"
+  />
+
+  <apn carrier="TelenorMobilsurf"
+      mcc="240"
+      mnc="09"
+      apn="services.telenor.se"
+      proxy="173.30.253.241"
+      port="8799"
+      type="default,supl"
+  />
+
+  <apn carrier="Spring data"
+      mcc="240"
+      mnc="10"
+      apn="data.springmobil.se"
+      type="default,supl"
+  />
+
+  <apn carrier="Ventelo Internett"
+      mcc="242"
+      mnc="01"
+      apn="internet.ventelo.no"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor"
+      mcc="242"
+      mnc="01"
+      apn="telenor"
+      type="default,supl"
+  />
+
+  <apn carrier="NetCom Internett"
+      mcc="242"
+      mnc="02"
+      apn="netcom"
+      proxy="10.254.254.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2 Internett"
+      mcc="242"
+      mnc="04"
+      apn="internet.tele2.no"
+      type="default,supl"
+  />
+
+  <apn carrier="NwN Internet"
+      mcc="242"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="DNA Internet"
+      mcc="244"
+      mnc="03"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="DNA Internet"
+      mcc="244"
+      mnc="04"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Elisa Internet"
+      mcc="244"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="TDC Internet"
+      mcc="244"
+      mnc="10"
+      apn="internet.song.fi"
+      user="song@internet"
+      password="songnet"
+      type="default,supl"
+  />
+
+  <apn carrier="DNA Internet"
+      mcc="244"
+      mnc="12"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="DNA Internet"
+      mcc="244"
+      mnc="13"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Saunalahti Internet"
+      mcc="244"
+      mnc="21"
+      apn="internet.saunalahti"
+      type="default,supl"
+  />
+
+  <apn carrier="SONERA Internet"
+      mcc="244"
+      mnc="91"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Omnitel Internet"
+      mcc="246"
+      mnc="01"
+      apn="omnitel"
+      user="omni"
+      password="omni"
+      type="default,supl"
+  />
+
+  <apn carrier="Bite LT WAP"
+      mcc="246"
+      mnc="02"
+      apn="wap"
+      proxy="213.226.131.133"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2 Internet LT"
+      mcc="246"
+      mnc="03"
+      apn="internet.tele2.lt"
+      user="wap"
+      password="wap"
+      proxy="130.244.196.090"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="LMT Internet"
+      mcc="247"
+      mnc="01"
+      apn="internet.lmt.lv"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2 LV Internet"
+      mcc="247"
+      mnc="02"
+      apn="internet.tele2.lv"
+      user="wap"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Bite LV Internet"
+      mcc="247"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Bite LV WAP"
+      mcc="247"
+      mnc="05"
+      apn="wap"
+      proxy="213.226.131.133"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="EMT Internet"
+      mcc="248"
+      mnc="01"
+      apn="internet.emt.ee"
+      type="default,supl"
+  />
+
+  <apn carrier="EMT WAP"
+      mcc="248"
+      mnc="01"
+      apn="wap.emt.ee"
+      proxy="217.71.32.236"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Elisa Internet"
+      mcc="248"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Elisa WAP"
+      mcc="248"
+      mnc="02"
+      apn="wap"
+      proxy="194.204.2.6"
+      port="8000"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele2 Internet"
+      mcc="248"
+      mnc="03"
+      apn="internet.tele2.ee"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="01"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="Megafon internet"
+      mcc="250"
+      mnc="02"
+      apn="internet"
+      user="gdata"
+      password="gdata"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="04"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="05"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="internet"
+      mcc="250"
+      mnc="07"
+      apn="internet.smarts.ru"
+      user="any"
+      password="any"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="10"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="Beeline internet"
+      mcc="250"
+      mnc="11"
+      apn="internet.beeline.ru"
+      user="beeline"
+      password="beeline"
+      type="default,supl"
+  />
+
+  <apn carrier="GPRS-Internet"
+      mcc="250"
+      mnc="12"
+      apn="inet.bwc.ru"
+      user="bwc"
+      password="bwc"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="13"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+
+  <apn carrier="Internet"
+      mcc="250"
+      mnc="17"
+      apn="internet.usi.ru"
+      type="default,supl"
+  />
+
+  <apn carrier="TELE2 Internet"
+      mcc="250"
+      mnc="20"
+      apn="internet.tele2.ru"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="39"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="Beeline internet"
+      mcc="250"
+      mnc="44"
+      apn="internet.beeline.ru"
+      user="beeline"
+      password="beeline"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="92"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="МТС-интернет"
+      mcc="250"
+      mnc="93"
+      apn="internet.mts.ru"
+      user="mts"
+      password="mts"
+      type="default,supl"
+  />
+
+  <apn carrier="Beeline internet"
+      mcc="250"
+      mnc="99"
+      apn="internet.beeline.ru"
+      user="beeline"
+      password="beeline"
+      type="default,supl"
+  />
+
+  <apn carrier="Jeans WAP"
+      mcc="255"
+      mnc="01"
+      apn="wap.jeans.ua"
+      proxy="192.168.10.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="MTS WAP"
+      mcc="255"
+      mnc="01"
+      apn="wap.umc.ua"
+      proxy="192.168.10.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="MTS-internet"
+      mcc="255"
+      mnc="01"
+      apn="www.mts.com.ua"
+      type="default,supl"
+  />
+
+  <apn carrier="Beeline-internet"
+      mcc="255"
+      mnc="02"
+      apn="internet.beeline.ua"
+      type="default,supl"
+  />
+
+  <apn carrier="Beeline WAP"
+      mcc="255"
+      mnc="02"
+      apn="wap.beeline.ua"
+      proxy="172.29.18.192"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Kyivstar WAP A&amp;B"
+      mcc="255"
+      mnc="03"
+      apn="wap.ab.kyivstar.net"
+      proxy="10.10.10.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Djuice WAP"
+      mcc="255"
+      mnc="03"
+      apn="wap.djuice.com.ua"
+      user="djuice"
+      password="wap"
+      proxy="10.10.10.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Kyivstar WAP"
+      mcc="255"
+      mnc="03"
+      apn="wap.kyivstar.net"
+      user="wgprs"
+      password="wap"
+      proxy="10.10.10.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="life:) internet"
+      mcc="255"
+      mnc="06"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Life:) WAP"
+      mcc="255"
+      mnc="06"
+      apn="wap"
+      proxy="212.58.162.230"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Plus Internet"
+      mcc="260"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Era Internet"
+      mcc="260"
+      mnc="02"
+      apn="erainternet"
+      type="default,supl"
+  />
+
+  <apn carrier="heyahinternet"
+      mcc="260"
+      mnc="02"
+      apn="heyah.pl"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange INTERNET"
+      mcc="260"
+      mnc="03"
+      apn="internet"
+      user="internet"
+      password="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="P4 Internet"
+      mcc="260"
+      mnc="06"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile D"
+      mcc="262"
+      mnc="01"
+      apn="internet.t-mobile"
+      user="t-mobile"
+      password="tm"
+      type="default,supl"
+  />
+
+<!-- Vodafone DE start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone DE"
+      mcc="262"
+      mnc="02"
+      apn="web.vodafone.de"
+      type="default,supl"
+  />
+<!-- Vodafone DE end -->
+
+  <apn carrier="E-Plus Web GPRS"
+      mcc="262"
+      mnc="03"
+      apn="internet.eplus.de"
+      user="eplus"
+      password="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Vodafone DE"
+      mcc="262"
+      mnc="04"
+      apn="web.vodafone.de"
+      type="default,supl"
+  />
+
+  <apn carrier="E-Plus Web GPRS"
+      mcc="262"
+      mnc="05"
+      apn="internet.eplus.de"
+      user="eplus"
+      password="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile Internet"
+      mcc="262"
+      mnc="06"
+      apn="internet.t-mobile"
+      user="t-mobile"
+      password="tm"
+      type="default,supl"
+  />
+
+  <apn carrier="o2"
+      mcc="262"
+      mnc="07"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="debitel-o2 Internet"
+      mcc="262"
+      mnc="07"
+      apn="internet.debitel.de"
+      user="debitel"
+      password="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="o2"
+      mcc="262"
+      mnc="08"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Vodafone DE"
+      mcc="262"
+      mnc="09"
+      apn="web.vodafone.de"
+      type="default,supl"
+  />
+
+  <apn carrier="o2"
+      mcc="262"
+      mnc="11"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- Vodafone PT start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Internet"
+      mcc="268"
+      mnc="01"
+      apn="internet.vodafone.pt"
+      user="vodafone"
+      password="vodafone"
+     type="default,supl"
+  />
+<!-- Vodafone PT end -->
+
+  <apn carrier="Optimus"
+      mcc="268"
+      mnc="03"
+      apn="umts"
+      type="default,supl"
+  />
+
+  <apn carrier="tmn internet"
+      mcc="268"
+      mnc="06"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="LUXGSM WAP"
+      mcc="270"
+      mnc="01"
+      apn="wap.pt.lu"
+      user="wap"
+      password="wap"
+      proxy="194.154.192.98"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Tango WAP"
+      mcc="270"
+      mnc="77"
+      apn="internet"
+      user="tango"
+      password="tango"
+      proxy="130.244.196.90"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Vox Mobile"
+      mcc="270"
+      mnc="99"
+      apn="vox.lu"
+      type="default,supl"
+  />
+
+<!-- Vodafone IE start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Internet"
+      mcc="272"
+      mnc="01"
+      apn="hs.vodafone.ie"
+      type="default,supl"
+  />
+<!-- Vodafone IE end-->
+
+  <apn carrier="O2 Ireland"
+      mcc="272"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Meteor Data"
+      mcc="272"
+      mnc="03"
+      apn="data.mymeteor.ie"
+      type="default,supl"
+  />
+`
+  <apn carrier="Meteor"
+      mcc="272"
+      mnc="03"
+      apn="mms.mymeteor.ie"
+      user="my"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="3 Ireland"
+      mcc="272"
+      mnc="05"
+      apn="3ireland.ie"
+      type="default,supl"
+  />
+
+  <apn carrier="Tesco"
+      mcc="272"
+      mnc="11"
+      apn="tescomobile.liffeytelecom.com"
+      type="default,supl"
+  />
+
+<!-- Vodafone Iceland start-->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="274"
+      mnc="02"
+      apn="vmc.gprs.is"
+      type="default,supl"
+  />
+<!-- Vodafone Iceland end-->
+
+  <apn carrier="Contract"
+      mcc="273"
+      mnc="03"
+      apn="vmc.gprs.is"
+      type="default,supl"
+  />
+
+  <apn carrier="Prepaid"
+      mcc="273"
+      mnc="03"
+      apn="vmc.gprs.is"
+      type="default,supl"
+  />
+
+  <apn carrier="Siminn Internet"
+      mcc="274"
+      mnc="01"
+      apn="internet"
+      proxy="213.167.138.200"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Vodafone Internet"
+      mcc="274"
+      mnc="02"
+      apn="gprs.is"
+      type="default,supl"
+  />
+
+  <apn carrier="Vodafone Live!"
+      mcc="274"
+      mnc="02"
+      apn="live.gprs.is"
+      proxy="10.22.0.22"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Net Nova"
+      mcc="274"
+      mnc="11"
+      apn="net.nova.is"
+      proxy="10.10.2.60"
+      port="8080"
+      type="default,supl"
+  />
+
+<!-- Vodafone Malta start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone MT"
+      mcc="278"
+      mnc="01"
+      apn="internet"
+      user="internet"
+      password="internet"
+      type="default,supl"
+  />
+<!-- Vodafone Malta end -->
+
+<!-- CYTA Mobile start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="280"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Prepaid"
+      mcc="280"
+      mnc="01"
+      apn="pp.internet"
+      type="default,supl"
+  />
+<!-- CYTA Mobile end -->
+
+  <apn carrier="MTN Wap"
+      mcc="280"
+      mnc="10"
+      apn="wap"
+      user="wap"
+      password="wap"
+      proxy="172.24.97.3"
+      port="3130"
+      type="default,supl"
+  />
+
+<!-- MTel Bulgaria start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="M-Tel"
+      mcc="284"
+      mnc="01"
+      apn="inet-gprs.mtel.bg"
+      type="default,supl"
+  />
+<!-- MTel Bulgaria end -->
+
+  <apn carrier="GPRS GLOBUL"
+      mcc="284"
+      mnc="05"
+      apn="globul"
+      type="default,supl"
+  />
+
+  <apn carrier="Turkcell Internet"
+      mcc="286"
+      mnc="01"
+      apn="internet"
+      user="gprs"
+      password="gprs"
+      type="default,supl"
+  />
+
+<!-- Vodafone Turkey start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Faturali"
+      mcc="286"
+      mnc="02"
+      apn="internet"
+      user="vodafone"
+      password="vodafone"
+      type="default,supl"
+  />
+
+  <apn carrier="Faturasiz"
+      mcc="286"
+      mnc="02"
+      apn="internet"
+      user="vodafone"
+      password="vodafone"
+      type="default,supl"
+  />
+<!-- Vodafone Turkey end -->
+
+
+  <apn carrier="Avea Internet"
+      mcc="286"
+      mnc="03"
+      apn="internet"
+      user="wap"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Tele Internet"
+      mcc="290"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- SiMobil Slovenia start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone live!"
+      mcc="293"
+      mnc="40"
+      apn="internet.simobil.si"
+      user="simobil"
+      password="internet"
+      type="default,supl"
+  />
+<!-- SiMobil Slovenia end -->
+
+  <apn carrier="Planet"
+      mcc="293"
+      mnc="41"
+      apn="internet"
+      user="mobitel"
+      password="internet"
+      proxy="213.229.249.40"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile MK Internet"
+      mcc="294"
+      mnc="01"
+      apn="internet"
+      user="internet"
+      password="t-mobile"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet"
+      mcc="294"
+      mnc="03"
+      apn="vipoperator"
+      user="vipoperator"
+      password="vipoperator"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile Internet"
+      mcc="297"
+      mnc="02"
+      apn="tmcg-wnw"
+      user="38267"
+      password="38267"
+      proxy="10.0.5.19"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="TELUS"
+      mcc="302"
+      mnc="220"
+      apn="sp.telus.com"
+      proxy="74.49.0.18"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="Koodo"
+      mcc="302"
+      mnc="220"
+      apn="sp.koodo.com"
+      proxy="74.49.0.18"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="Clearnet"
+      mcc="302"
+      mnc="220"
+      apn="inet.clearnet.com"
+      proxy="74.49.0.18"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="Mobilicity"
+      mcc="302"
+      mnc="320"
+      apn="wap.davewireless.com"
+      proxy="10.100.3.4"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Fido ISP GPRS"
+      mcc="302"
+      mnc="370"
+      apn="fido-core-appl1.apn"
+      type="default,supl"
+  />
+
+  <apn carrier="Fido Tethering"
+      mcc="302"
+      mnc="370"
+      apn="isp.fido.apn"
+      type="dun"
+  />
+
+  <apn carrier="Wind CA"
+      mcc="302"
+      mnc="490"
+      apn="internet.windmobile.ca"
+      type="default,supl"
+  />
+
+  <apn carrier="Videotron"
+      mcc="302"
+      mnc="500"
+      apn="media.videotron"
+      proxy="10.208.89.17"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Bell Internet"
+      mcc="302"
+      mnc="610"
+      apn="pda.bell.ca"
+      type="default,supl"
+  />
+
+  <apn carrier="Rogers Tethering"
+      mcc="302"
+      mnc="720"
+      apn="isp.apn"
+      type="dun"
+  />
+
+  <apn carrier="Rogers"
+      mcc="302"
+      mnc="720"
+      apn="rogers-core-appl1.apn"
+      type="default,supl"
+  />
+
+  <apn carrier="SaskTel"
+      mcc="302"
+      mnc="780"
+      apn="pda.stm.sk.ca"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet"
+      mcc="310"
+      mnc="030"
+      apn="private.centennialwireless.com"
+      user="privuser"
+      password="priv"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet"
+      mcc="310"
+      mnc="090"
+      apn="isp"
+      type="default,supl"
+  />
+
+  <apn carrier="PLATWEB"
+      mcc="310"
+      mnc="100"
+      apn="plateauweb"
+      type="default,supl"
+  />
+
+
+  <apn carrier="T-Mobile US 160"
+      mcc="310"
+      mnc="160"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="DataConnect"
+      mcc="310"
+      mnc="170"
+      apn="isp.cingular"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 200"
+      mcc="310"
+      mnc="200"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 210"
+      mcc="310"
+      mnc="210"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 220"
+      mcc="310"
+      mnc="220"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 230"
+      mcc="310"
+      mnc="230"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 240"
+      mcc="310"
+      mnc="240"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 250"
+      mcc="310"
+      mnc="250"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US"
+      mcc="310"
+      mnc="260"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 270"
+      mcc="310"
+      mnc="270"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 310"
+      mcc="310"
+      mnc="310"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Cingular 380 ATT"
+      mcc="310"
+      mnc="380"
+      apn="proxy"
+      type="default,supl"
+  />
+
+  <apn carrier="Cingular 410"
+      mcc="310"
+      mnc="410"
+      apn="wap.cingular"
+      user="WAP@CINGULARGPRS.COM"
+      password="CINGULAR1"
+      server="cingulargprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="DataConnect"
+      mcc="310"
+      mnc="470"
+      apn="isp.cingular"
+      type="default,supl"
+  />
+
+  <apn carrier="MediaNet"
+      mcc="310"
+      mnc="470"
+      apn="wap.cingular"
+      user="WAP@CINGULARGPRS.COM"
+      password="CINGULAR1"
+      type="default,supl"
+  />
+
+  <apn carrier="DataConnect"
+      mcc="310"
+      mnc="480"
+      apn="isp.cingular"
+      type="default,supl"
+  />
+
+  <apn carrier="MediaNet"
+      mcc="310"
+      mnc="480"
+      apn="wap.cingular"
+      user="WAP@CINGULARGPRS.COM"
+      password="CINGULAR1"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 490"
+      mcc="310"
+      mnc="490"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 580"
+      mcc="310"
+      mnc="580"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="EpicINT"
+      mcc="310"
+      mnc="610"
+      apn="internet.epictouch"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 660"
+      mcc="310"
+      mnc="660"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="WEB 2"
+      mcc="310"
+      mnc="770"
+      apn="i2.iwireless.com"
+      type="default,supl"
+  />
+
+  <apn carrier="T-Mobile US 800"
+      mcc="310"
+      mnc="800"
+      apn="epc.tmobile.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet"
+      mcc="310"
+      mnc="840"
+      apn="isp"
+      type="default,supl"
+  />
+
+  <apn carrier="WOW_WAP"
+      mcc="310"
+      mnc="910"
+      apn="wap.firstcellular.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Farmers GPRS"
+      mcc="311"
+      mnc="210"
+      apn="internet.farmerswireless.com"
+      type="default,supl"
+  />
+
+  <apn carrier="INTERNET CLARO"
+      mcc="330"
+      mnc="110"
+      apn="internet.claropr.com"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Telcel Internet"
+      mcc="334"
+      mnc="02"
+      apn="internet.itelcel.com"
+      user="webgprs"
+      password="webgprs2002"
+      type="default,supl"
+  />
+
+  <apn carrier="MoviStar Internet"
+      mcc="334"
+      mnc="03"
+      apn="internet.movistar.mx"
+      user="movistar"
+      password="movistar"
+      type="default,supl"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="338"
+      mnc="18"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Claro Web"
+      mcc="338"
+      mnc="070"
+      apn="internet.ideasclaro.com.jm"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="338"
+      mnc="180"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Orange World Caraïbe"
+      mcc="340"
+      mnc="01"
+      apn="orangewap"
+      user="orange"
+      password="wap"
+      proxy="10.0.0.10"
+      port="8082"
+      type="default,supl"
+  />
+
+  <apn carrier="Digicel FR"
+      mcc="340"
+      mnc="20"
+      apn="wap.digicelfr.com"
+      user="wap"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="342"
+      mnc="60"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="344"
+      mnc="92"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="346"
+      mnc="14"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="348"
+      mnc="17"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="352"
+      mnc="11"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="354"
+      mnc="86"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="356"
+      mnc="11"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="358"
+      mnc="11"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="360"
+      mnc="11"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="365"
+      mnc="84"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="366"
+      mnc="11"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Orange net"
+      mcc="370"
+      mnc="01"
+      apn="orangenet.com.do"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="INTERNET CLARO"
+      mcc="370"
+      mnc="02"
+      apn="internet.ideasclaro.com.do"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Viva Edge"
+      mcc="370"
+      mnc="04"
+      apn="edge.viva.net.do"
+      proxy="192.168.16.10"
+      port="9401"
+      user="viva"
+      password="viva"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="12"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="120"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="121"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="122"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="123"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="124"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="125"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="126"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="127"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="128"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Bmobile internet"
+      mcc="374"
+      mnc="129"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Lime Internet Postpaid"
+      mcc="376"
+      mnc="35"
+      apn="internet"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Beeline Internet"
+      mcc="401"
+      mnc="01"
+      apn="internet.beeline.kz"
+      user="@internet.beeline"
+      password="beeline"
+      type="default,supl"
+  />
+
+  <apn carrier="Beeline WAP"
+      mcc="401"
+      mnc="01"
+      apn="wap.beeline.kz"
+      user="@wap.beeline"
+      password="beeline"
+      proxy="172.027.006.093"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Kcell Internet"
+      mcc="401"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Kcell WAP"
+      mcc="401"
+      mnc="02"
+      apn="wap"
+      proxy="195.47.255.7"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="NEO Internet"
+      mcc="401"
+      mnc="77"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="NEO WAP"
+      mcc="401"
+      mnc="77"
+      apn="wap"
+      proxy="10.1.26.10"
+      port="8080"
+      type="default,supl"
+  />
+
+<!-- VF India Haryana start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="01"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Haryana end -->
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="02"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="03"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="04"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- VF India Gujarat start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="05"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Gujarat end -->
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="07"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="09"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="10"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+<!-- VF India Delhi start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="11"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Delhi end -->
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="12"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- VF India Andhra Pradesh start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="13"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Andhra Pradesh start-->
+
+  <apn carrier="IDEA Punjab"
+      mcc="404"
+      mnc="14"
+      apn="spicegprs"
+      type="default,supl"
+  />
+
+<!-- VF India UP East start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="15"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India UP East end -->
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="16"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="17"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="18"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="19"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- VF India Mumbai start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="20"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Mumbai end -->
+
+  <apn carrier="Loop Mobile"
+      mcc="404"
+      mnc="21"
+      apn="www"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="22"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="24"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="25"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+<!-- VF India Maharashtra & Goa start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="27"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Maharashtra & Goa end -->
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="28"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="29"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+<!-- VF India Kolkata start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="30"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Kolkata end -->
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="31"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="33"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="34"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="35"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="36"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="37"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_Kolkata"
+      mcc="404"
+      mnc="38"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="40"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL TN"
+      mcc="404"
+      mnc="41"
+      apn="aircelgprs.po"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL TN"
+      mcc="404"
+      mnc="42"
+      apn="aircelgprs.po"
+      type="default,supl"
+  />
+
+<!-- VF India Tamil Nadu start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="43"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Tamil Nadu end -->
+
+  <apn carrier="IDEA Karnataka"
+      mcc="404"
+      mnc="44"
+      apn="simplyinternet"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="45"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+<!-- VF India  Kerala start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="46"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India  Kerala end -->
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="49"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="50"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="51"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="52"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="53"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="54"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="55"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="56"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_West"
+      mcc="404"
+      mnc="57"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_West"
+      mcc="404"
+      mnc="58"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="59"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+<!-- VF India Rajasthan start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="60"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Rajasthan end -->
+
+  <apn carrier="Cellone_North"
+      mcc="404"
+      mnc="62"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_South"
+      mcc="404"
+      mnc="64"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellone_West"
+      mcc="404"
+      mnc="66"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="67"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+  <apn carrier="Dolphin_Delhi"
+      mcc="404"
+      mnc="68"
+      apn="gprsmtnldel"
+      user="mtnl"
+      password="mtnl123"
+      type="default,supl"
+  />
+
+  <apn carrier="Dolphin_Delhi_3G"
+      mcc="404"
+      mnc="68"
+      apn="mtnl3g"
+      user="mtnl"
+      password="mtnl123"
+      type="default,supl"
+  />
+
+  <apn carrier="Dolphin_Mumbai"
+      mcc="404"
+      mnc="69"
+      apn="gprsmtnlmum"
+      user="mtnl"
+      password="mtnl123"
+      type="default,supl"
+  />
+
+  <apn carrier="Dolphin_Mumbai_3G"
+      mcc="404"
+      mnc="69"
+      apn="mtnl3g"
+      user="mtnl"
+      password="mtnl123"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="70"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_South"
+      mcc="404"
+      mnc="71"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_South"
+      mcc="404"
+      mnc="72"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_South"
+      mcc="404"
+      mnc="73"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+
+  <apn carrier="CellOne_Kolkata"
+      mcc="404"
+      mnc="74"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+
+  <apn carrier="CellOne_Kolkata"
+      mcc="404"
+      mnc="75"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+
+  <apn carrier="CellOne_Kolkata"
+      mcc="404"
+      mnc="76"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_Kolkata"
+      mcc="404"
+      mnc="77"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="78"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_South"
+      mcc="404"
+      mnc="79"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_South"
+      mcc="404"
+      mnc="80"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="CellOne_Kolkata"
+      mcc="404"
+      mnc="81"
+      apn="bsnlnet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="82"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="83"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+<!-- VF India Chennai start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="84"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Chennai end -->
+
+  <apn carrier="Reliance RTel"
+      mcc="404"
+      mnc="85"
+      apn="SMARTNET"
+      type="default,supl"
+  />
+
+<!-- VF India Karnataka start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="86"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Karnataka end -->
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="87"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- Vodafone India start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="404"
+      mnc="88"
+      apn="www"
+      type="default,supl"
+  />
+<!-- Vodafone India end-->
+
+  <apn carrier="IDEA"
+      mcc="404"
+      mnc="89"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="90"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL NE"
+      mcc="404"
+      mnc="91"
+      apn="aircelwebpost"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="92"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="93"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="94"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="95"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="96"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="97"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="404"
+      mnc="98"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="01"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="03"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="04"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="05"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="06"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="07"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="08"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="09"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="10"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="11"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="12"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="13"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="14"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="15"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="17"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="18"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="19"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="20"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="21"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="22"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="Reliance RCOM"
+      mcc="405"
+      mnc="23"
+      apn="rcomnet"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="25"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="26"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="27"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="28"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="29"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="30"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="31"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="32"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="33"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="34"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="35"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="36"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="37"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="38"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="39"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="40"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="41"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="42"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="43"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="44"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="45"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="46"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="TataDOCOMO"
+      mcc="405"
+      mnc="47"
+      apn="TATA.DOCOMO.INTERNET"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="405"
+      mnc="51"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="405"
+      mnc="52"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="405"
+      mnc="53"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="405"
+      mnc="54"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="405"
+      mnc="55"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Airtel"
+      mcc="405"
+      mnc="56"
+      apn="airtelgprs.com"
+      type="default,supl"
+  />
+
+<!-- VF India UP West start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="66"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India UP West end -->
+
+<!-- VF India West Bengal start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="67"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India West Bengal end -->
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="70"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- VF India Punjab -->
+
+  <apn carrier="Contract"
+      mcc="405"
+      mnc="88"
+      apn="www"
+      type="default,supl"
+  />
+
+  <apn carrier="Prepaid"
+      mcc="405"
+      mnc="88"
+      apn="www"
+      type="default,supl"
+  />
+
+<!-- VF India Jammu & Kashmir start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="750"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Jammu & Kashmir end -->
+
+<!-- VF India Assam start-->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="751"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Assam end -->
+
+<!-- VF India Bihar start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="752"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Bihar end -->
+
+<!-- VF India Orissa start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="753"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Orissa end -->
+
+<!-- VF India Himachal Pradesh start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="754"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Himachal Pradesh end -->
+
+<!-- VF India Northeast start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="755"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Northeast end -->
+
+<!-- VF India Madhya Pradesh start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Connect"
+      mcc="405"
+      mnc="756"
+      apn="www"
+      type="default,supl"
+  />
+<!-- VF India Madhya Pradesh end -->
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="799"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL ROI"
+      mcc="405"
+      mnc="800"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL South"
+      mcc="405"
+      mnc="801"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL Central"
+      mcc="405"
+      mnc="802"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL South"
+      mcc="405"
+      mnc="803"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL ROI"
+      mcc="405"
+      mnc="804"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL ROI"
+      mcc="405"
+      mnc="805"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL Central"
+      mcc="405"
+      mnc="806"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL Central"
+      mcc="405"
+      mnc="807"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL Central"
+      mcc="405"
+      mnc="808"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL South"
+      mcc="405"
+      mnc="809"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL ROI"
+      mcc="405"
+      mnc="810"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL ROI"
+      mcc="405"
+      mnc="811"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="AIRCEL Central"
+      mcc="405"
+      mnc="812"
+      apn="aircelgprs"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="823"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="824"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="825"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="826"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="827"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="828"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="829"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="830"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="831"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="832"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="833"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="834"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="835"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="836"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="837"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="838"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="839"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="840"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="841"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="842"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="843"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="845"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="846"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="847"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="848"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="849"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="850"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="851"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="852"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="853"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="STEL"
+      mcc="405"
+      mnc="881"
+      apn="gprs.stel.in"
+      type="default,supl"
+  />
+
+  <apn carrier="STEL"
+      mcc="405"
+      mnc="882"
+      apn="gprs.stel.in"
+      type="default,supl"
+  />
+
+  <apn carrier="STEL"
+      mcc="405"
+      mnc="883"
+      apn="gprs.stel.in"
+      type="default,supl"
+  />
+
+  <apn carrier="STEL"
+      mcc="405"
+      mnc="884"
+      apn="gprs.stel.in"
+      type="default,supl"
+  />
+
+  <apn carrier="STEL"
+      mcc="405"
+      mnc="885"
+      apn="gprs.stel.in"
+      type="default,supl"
+  />
+
+  <apn carrier="STEL"
+      mcc="405"
+      mnc="886"
+      apn="gprs.stel.in"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="908"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="909"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="910"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEA"
+      mcc="405"
+      mnc="911"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Videocon"
+      mcc="405"
+      mnc="932"
+      apn="vinternet.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Mobilink WAP GPRS"
+      mcc="410"
+      mnc="01"
+      apn="connect.mobilinkworld.com"
+      user="Mobilink"
+      password="Mobilink"
+      type="default,supl"
+  />
+
+  <apn carrier="Ufone WAP"
+      mcc="410"
+      mnc="03"
+      apn="Ufone.internet"
+      type="default,supl"
+  />
+
+  <apn carrier="ZONG WAP"
+      mcc="410"
+      mnc="04"
+      apn="zonginternet"
+      type="default,supl"
+  />
+
+  <apn carrier="Telenor WAP"
+      mcc="410"
+      mnc="06"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Warid WAP"
+      mcc="410"
+      mnc="07"
+      apn="Wap.warid"
+      type="default,supl"
+  />
+
+  <apn carrier="Alfa Internet"
+      mcc="415"
+      mnc="01"
+      user="mic1"
+      password="mic1"
+      apn="internet.mic1.com.lb"
+      type="default,supl"
+  />
+
+  <apn carrier="MTC Touch GPRS"
+      mcc="415"
+      mnc="03"
+      apn="gprs.mtctouch.com.lb"
+      type="default,supl"
+  />
+
+  <apn carrier="Zain JO Internet Postpaid"
+      mcc="416"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Zain JO Internet Prepaid"
+      mcc="416"
+      mnc="01"
+      apn="internetpre"
+      user="zain"
+      password="zain"
+      type="default,supl"
+  />
+
+  <apn carrier="umniahinternet Postpaid"
+      mcc="416"
+      mnc="03"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="umniah Prepaid"
+      mcc="416"
+      mnc="03"
+      apn="net"
+      proxy="0.0.0.0"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange Internet"
+      mcc="416"
+      mnc="77"
+      apn="net.orange.jo"
+      user="net"
+      password="net"
+      type="default,supl"
+  />
+
+  <apn carrier="DATA Package"
+      mcc="424"
+      mnc="02"
+      apn="etisalat.ae"
+      type="default,supl"
+  />
+
+  <apn carrier="du WAP"
+      mcc="424"
+      mnc="03"
+      apn="du"
+      proxy="10.19.18.4"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="3G Portal"
+      mcc="425"
+      mnc="01"
+      apn="uwap.orange.co.il"
+      user="orange"
+      password="mobile54"
+      proxy="192.118.11.56"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Cellcom Internet"
+      mcc="425"
+      mnc="02"
+      apn="Sphone"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet Pelephone"
+      mcc="425"
+      mnc="03"
+      apn="sphone.pelephone.net.il"
+      user="pcl@3g"
+      password="pcl"
+      type="default,supl"
+  />
+
+  <apn carrier="Batelco Internet"
+      mcc="426"
+      mnc="01"
+      apn="internet.batelco.com"
+      type="default,supl"
+  />
+
+  <apn carrier="Zain NET"
+      mcc="426"
+      mnc="02"
+      apn="internet"
+      user="internet"
+      password="internet"
+      type="default,supl"
+  />
+
+<!-- Vodafone Qatar start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="427"
+      mnc="02"
+      apn="web.vodafone.com.qa"
+      type="default,supl"
+  />
+<!-- Vodafone Qatar end -->
+
+  <apn carrier="mopera"
+      mcc="440"
+      mnc="10"
+      apn="mopera.net"
+      type="default,supl"
+  />
+
+  <apn carrier="mopera U(Biz・ホーダイ)"
+      mcc="440"
+      mnc="10"
+      apn="mpr2.bizho.net"
+      type="default,supl"
+  />
+
+  <apn carrier="SK Telecom (Roaming)"
+      mcc="450"
+      mnc="05"
+      apn="roaming.sktelecom.com"
+      type="default,supl"
+  />
+
+  <apn carrier="SK Telecom"
+      mcc="450"
+      mnc="05"
+      apn="web.sktelecom.com"
+       type="default,supl"
+  />
+
+  <apn carrier="KT-HSDPA"
+      mcc="450"
+      mnc="08"
+      apn="alwayson-r6.ktfwing.com"
+      type="default,supl"
+  />
+
+  <apn carrier="VN MOBIFONE Email"
+      mcc="452"
+      mnc="01"
+      apn="m-wap"
+      user="mms"
+      password="mms"
+      type="default,supl"
+  />
+
+  <apn carrier="Vinaphone Email"
+      mcc="452"
+      mnc="02"
+      apn="m3-world"
+      user="mms"
+      password="mms"
+      type="default,supl"
+  />
+
+  <apn carrier="Viettel Email"
+      mcc="452"
+      mnc="04"
+      apn="v-internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Vietnamobile Email"
+      mcc="452"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="BEELINE Email"
+      mcc="452"
+      mnc="07"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="CSL Data"
+      mcc="454"
+      mnc="00"
+      apn="hkcsl"
+      proxy="192.168.59.51"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="CSL Data"
+      mcc="454"
+      mnc="02"
+      apn="hkcsl"
+      proxy="192.168.59.51"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="3"
+      mcc="454"
+      mnc="03"
+      apn="mobile.three.com.hk"
+      type="default,supl"
+  />
+
+  <apn carrier="3-DB-GPRS"
+      mcc="454"
+      mnc="04"
+      apn="web-g.three.com.hk"
+      proxy="10.30.15.53"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="SMC-Voda"
+      mcc="454"
+      mnc="06"
+      apn="SmarTone-Vodafone"
+      type="default,supl"
+  />
+
+  <apn carrier="CSL Data"
+      mcc="454"
+      mnc="10"
+      apn="hkcsl"
+      type="default,supl"
+  />
+
+  <apn carrier="CMHK GPRS"
+      mcc="454"
+      mnc="12"
+      apn="peoples.net"
+      proxy="172.31.31.36"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="PCCW_GPRS"
+      mcc="454"
+      mnc="16"
+      apn="pccwdata"
+      proxy="10.131.2.8"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="PCCW 3G"
+      mcc="454"
+      mnc="19"
+      apn="pccw"
+      type="default,supl"
+  />
+
+  <apn carrier="SmarTone Macau"
+      mcc="455"
+      mnc="00"
+      apn="smartgprs"
+      proxy="10.9.9.29"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="CTM"
+      mcc="455"
+      mnc="01"
+      apn="ctm-mobile"
+      proxy="192.168.99.2"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="Hutchison Macau"
+      mcc="455"
+      mnc="03"
+      apn="web-g.three.com.hk"
+      user="hutchison"
+      password="1234"
+      type="default,supl"
+  />
+
+  <apn carrier="CTM"
+      mcc="455"
+      mnc="04"
+      apn="ctm-mobile"
+      proxy="192.168.99.2"
+      port="8080"
+      type="default,supl"
+  />
+
+
+  <apn carrier="中国移动 (China Mobile) GPRS"
+      mcc="460"
+      mnc="00"
+      apn="cmnet"
+      type="default,supl"
+  />
+
+  <apn carrier="中国联通 3g 网络 (China Unicom)"
+      mcc="460"
+      mnc="01"
+      apn="3gnet"
+      type="default,supl"
+  />
+
+  <apn carrier="中国移动 (China Mobile) GPRS"
+      mcc="460"
+      mnc="02"
+      apn="cmnet"
+      type="default,supl"
+  />
+
+  <apn carrier="中国移动 (China Mobile) GPRS"
+      mcc="460"
+      mnc="07"
+      apn="cmnet"
+      type="default,supl"
+  />
+
+  <apn carrier="遠傳電信(Far EasTone) (Internet)"
+      mcc="466"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="和信電訊(KGT-Online) (Internet)"
+      mcc="466"
+      mnc="88"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="威寶電信(VIBO)"
+      mcc="466"
+      mnc="89"
+      apn="vibo"
+      type="default,supl"
+  />
+
+  <apn carrier="中華電信(Chunghwa)"
+      mcc="466"
+      mnc="92"
+      apn="emome"
+      type="default,supl"
+  />
+
+  <apn carrier="中華電信(Chunghwa) (Internet)"
+      mcc="466"
+      mnc="92"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="台灣大哥大(TW Mobile) (Internet)"
+      mcc="466"
+      mnc="93"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="台灣大哥大(TW Mobile) (twm)"
+      mcc="466"
+      mnc="93"
+      apn="TWM"
+      type="default,supl"
+  />
+
+  <apn carrier="台灣大哥大(TW Mobile) (Internet)"
+      mcc="466"
+      mnc="97"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="台灣大哥大(TW Mobile) (twm)"
+      mcc="466"
+      mnc="97"
+      apn="TWM"
+      type="default,supl"
+  />
+
+  <apn carrier="台灣大哥大(TW Mobile) (Internet)"
+      mcc="466"
+      mnc="99"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="台灣大哥大(TW Mobile) (twm)"
+      mcc="466"
+      mnc="99"
+      apn="TWM"
+      type="default,supl"
+  />
+
+  <apn carrier="Maxis Internet"
+      mcc="502"
+      mnc="12"
+      apn="net"
+      user="maxis"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Maxis 3G Internet"
+      mcc="502"
+      mnc="12"
+      apn="unet"
+      user="maxis"
+      password="wap"
+      type="default,supl"
+  />
+
+  <apn carrier="DiGi Internet"
+      mcc="502"
+      mnc="16"
+      apn="diginet"
+      type="default,supl"
+  />
+
+  <apn carrier="U Mobile Internet"
+      mcc="502"
+      mnc="18"
+      apn="my3g"
+      type="default,supl"
+  />
+
+  <apn carrier="Celcom Internet"
+      mcc="502"
+      mnc="19"
+      apn="celcom.net.my"
+      type="default,supl"
+  />
+
+
+  <apn carrier="Celcom 3G Internet"
+      mcc="502"
+      mnc="19"
+      apn="celcom3g"
+      type="default,supl"
+  />
+
+  <apn carrier="Telstra Internet"
+      mcc="505"
+      mnc="01"
+      apn="Telstra.wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Optus Internet"
+      mcc="505"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Optus Internet"
+      mcc="505"
+      mnc="02"
+      apn="yesinternet"
+      type="default,supl"
+  />
+
+<!-- Vodafone AU start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Vodafone Mobile Broadband Contract"
+      mcc="505"
+      mnc="03"
+      apn="vfinternet.au"
+      type="default,supl"
+  />
+
+  <apn carrier="Vodafone Mobile Broadband Prepay"
+      mcc="505"
+      mnc="03"
+      apn="vfprepaymbb"
+      type="default,supl"
+  />
+
+<!-- Vodafone AU end -->
+
+  <apn carrier="Mobile Internet Postpay"
+      mcc="505"
+      mnc="06"
+      apn="3netaccess"
+      type="default,supl"
+  />
+
+  <apn carrier="Mobile Internet Prepay"
+      mcc="505"
+      mnc="06"
+      apn="3services"
+      type="default,supl"
+  />
+
+  <apn carrier="VF Internet"
+      mcc="505"
+      mnc="07"
+      apn="vfinternet.au"
+      type="default,supl"
+  />
+
+  <apn carrier="Telstra Internet"
+      mcc="505"
+      mnc="11"
+      apn="Telstra.wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Telstra Internet"
+      mcc="505"
+      mnc="71"
+      apn="Telstra.wap"
+      type="default,supl"
+  />
+
+  <apn carrier="Telstra Internet"
+      mcc="505"
+      mnc="72"
+      apn="Telstra.wap"
+      type="default,supl"
+  />
+
+  <apn carrier="VF Internet"
+      mcc="505"
+      mnc="88"
+      apn="vfinternet.au"
+      type="default,supl"
+  />
+
+  <apn carrier="Optus Internet"
+      mcc="505"
+      mnc="90"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="ISAT BB INTERNET"
+      mcc="510"
+      mnc="01"
+      apn="indosat3g"
+      user="indosat"
+      password="indosat"
+      proxy="10.19.19.19"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="ISAT WAP"
+      mcc="510"
+      mnc="01"
+      apn="indosatgprs"
+      user="indosat"
+      password="indosat"
+      type="default,supl"
+  />
+
+  <apn carrier="AXISinternet"
+      mcc="510"
+      mnc="08"
+      apn="AXIS"
+      user="AXIS"
+      password="123456"
+      type="default,supl"
+  />
+
+  <apn carrier="Telkomsel GPRS WEB"
+      mcc="510"
+      mnc="10"
+      apn="internet"
+      user="wap"
+      password="wap123"
+      type="default,supl"
+  />
+
+  <apn carrier="XL GPRS"
+      mcc="510"
+      mnc="11"
+      apn="www.xlgprs.net"
+      user="xlgprs"
+      password="proxl"
+      type="default,supl"
+  />
+
+  <apn carrier="XL Unlimited"
+      mcc="510"
+      mnc="11"
+      apn="xlunlimited"
+      type="default,supl"
+  />
+
+  <apn carrier="ISAT M3 INTERNET"
+      mcc="510"
+      mnc="21"
+      apn="indosatgprs"
+      user="indosat"
+      password="indosat"
+      type="default,supl"
+  />
+
+  <apn carrier="3 GPRS"
+      mcc="510"
+      mnc="89"
+      apn="3gprs"
+      user="3gprs"
+      password="3gprs"
+      type="default,supl"
+  />
+
+  <apn carrier="myGlobe Internet Postpaid"
+      mcc="515"
+      mnc="02"
+      apn="internet.globe.com.ph"
+      type="default,supl"
+  />
+
+  <apn carrier="myGlobe Internet Prepaid"
+      mcc="515"
+      mnc="02"
+      apn="http.globe.com.ph"
+      type="default,supl"
+  />
+
+  <apn carrier="Smart Internet"
+      mcc="515"
+      mnc="03"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="SUN INTERNET"
+      mcc="515"
+      mnc="05"
+      apn="minternet"
+      type="default,supl"
+  />
+
+  <apn carrier="RED INTERNET"
+      mcc="515"
+      mnc="18"
+      apn="redinternet"
+      type="default,supl"
+  />
+
+  <apn carrier="AIS Internet"
+      mcc="520"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="DTAC Internet"
+      mcc="520"
+      mnc="18"
+      apn="www.dtac.co.th"
+      type="default,supl"
+  />
+
+  <apn carrier="True GPRS Inet"
+      mcc="520"
+      mnc="99"
+      apn="internet"
+      user="true"
+      password="true"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEAS"
+      mcc="525"
+      mnc="01"
+      apn="e-ideas"
+      type="default,supl"
+  />
+
+  <apn carrier="IDEAS E-mail"
+      mcc="525"
+      mnc="02"
+      apn="e-ideas"
+      type="default,supl"
+  />
+
+  <apn carrier="M1 E-mail"
+      mcc="525"
+      mnc="03"
+      apn="sunsurf"
+      user="65"
+      type="default,supl"
+  />
+
+  <apn carrier="StarHub"
+      mcc="525"
+      mnc="05"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Gee! (GPRS)"
+      mcc="525"
+      mnc="05"
+      apn="shwap"
+      user="star"
+      password="hub"
+      proxy="10.12.1.2"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="StarHub E-mail"
+      mcc="525"
+      mnc="05"
+      apn="shwap"
+      type="default,supl"
+  />
+
+<!-- Vodafone NZ start -->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="VFNZ Internet"
+      mcc="530"
+      mnc="01"
+      apn="www.vodafone.net.nz"
+      type="default,supl"
+  />
+
+  <apn carrier="Telecom Internet"
+      mcc="530"
+      mnc="05"
+      apn="internet.telecom.co.nz"
+      type="default,supl"
+  />
+
+  <apn carrier="2degrees Internet"
+      mcc="530"
+      mnc="24"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- Vodafone NZ end -->
+
+<!-- Vodafone Egypt start-->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Contract"
+      mcc="602"
+      mnc="02"
+      apn="internet.vodafone.net"
+      user="internet"
+      password="internet"
+      proxy="163.121.128.134"
+      port=""
+      type="default,supl"
+  />
+<!-- Vodafone Egypt end-->
+
+  <apn carrier="mobinet"
+      mcc="605"
+      mnc="02"
+      apn="gprs.tn"
+      user="gprs"
+      password="gprs"
+      proxy="0.0.0.0"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="internet Tunisiana"
+      mcc="605"
+      mnc="03"
+      apn="internet.tunisiana.com"
+      user="internet"
+      password="internet"
+      proxy="10.3.2.99"
+      port="80"
+      type="default,supl"
+  />
+
+  <apn carrier="Orange World Réunion"
+      mcc="647"
+      mnc="00"
+      apn="orangerun"
+      user="orange"
+      password="orange"
+      proxy="192.168.10.100"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="SRR Full Internet"
+      mcc="647"
+      mnc="10"
+      apn="sl2sfr"
+      type="default,supl"
+  />
+
+  <apn carrier="VCL Internet GPRS"
+      mcc="651"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+
+<!-- Vodacom South Africa start-->
+<!-- It's from Vodafone Global, Don't edit -->
+  <apn carrier="Internet"
+      mcc="655"
+      mnc="01"
+      apn="internet"
+      type="default,supl"
+  />
+<!-- Vodacom South Africa end -->
+
+  <apn carrier="8.ta internet"
+      mcc="655"
+      mnc="02"
+      apn="internet"
+      type="default,supl"
+  />
+
+  <apn carrier="Smartdata"
+      mcc="655"
+      mnc="07"
+      apn="internet"
+      proxy="196.31.116.250"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="virgin_internet"
+      mcc="655"
+      mnc="07"
+      apn="vdata"
+      proxy="196.031.116.241"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="MTN Data"
+      mcc="655"
+      mnc="10"
+      apn="myMTN"
+      user="mtn"
+      proxy="196.11.240.251"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="INTERNET CLARO"
+      mcc="704"
+      mnc="01"
+      apn="internet.ideasclaro"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="BROADBAND TIGO"
+      mcc="704"
+      mnc="02"
+      apn="broadband.tigo.gt"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet GT"
+      mcc="704"
+      mnc="03"
+      apn="internet.movistar.gt"
+      user="movistargt"
+      password="movistargt"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet GT"
+      mcc="704"
+      mnc="030"
+      apn="internet.movistar.gt"
+      user="movistargt"
+      password="movistargt"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="INTERNET CLARO"
+      mcc="706"
+      mnc="01"
+      apn="internet.ideasclaro"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="BROADBAND TIGO"
+      mcc="706"
+      mnc="03"
+      apn="broadband.tigo.sv"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet SV"
+      mcc="706"
+      mnc="04"
+      apn="internet.movistar.sv"
+      user="movistarsv"
+      password="movistarsv"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet SV"
+      mcc="706"
+      mnc="040"
+      apn="internet.movistar.sv"
+      user="movistarsv"
+      password="movistarsv"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet Claro"
+      mcc="708"
+      mnc="001"
+      apn="web.megatel.hn"
+      user="webmegatel"
+      password="webmegatel"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="INTERNET TIGO"
+      mcc="708"
+      mnc="02"
+      apn="internet.tigo.hn"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="INTERNET TIGO"
+      mcc="708"
+      mnc="020"
+      apn="internet.tigo.hn"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="INTERNET"
+      mcc="710"
+      mnc="21"
+      apn="web.emovil"
+      user="webemovil"
+      password="webemovil"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet GPRS"
+      mcc="710"
+      mnc="300"
+      apn="internet.movistar.ni"
+      user="movistarni"
+      password="movistarni"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Kolbi"
+      mcc="712"
+      mnc="01"
+      apn="kolbi3g"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Kolbi"
+      mcc="712"
+      mnc="02"
+      apn="kolbi3g"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+
+  <apn carrier="Wap"
+      mcc="714"
+      mnc="01"
+      apn="apn01.cwpanama.com.pa"
+      proxy="172.25.3.5"
+      port="8080"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="movistar INTERNET"
+      mcc="714"
+      mnc="020"
+      apn="internet.movistar.pa"
+      user="movistarpa"
+      password="movistarpa"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="WEB Claro"
+      mcc="714"
+      mnc="03"
+      apn="web.claro.com.pa"
+      user="CLAROWEB"
+      password="CLAROWEB"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="TIM Connect"
+      mcc="724"
+      mnc="02"
+      apn="timbrasil.br"
+      user="tim"
+      password="tim"
+      type="default,supl"
+  />
+
+  <apn carrier="TIM Connect"
+      mcc="724"
+      mnc="03"
+      apn="timbrasil.br"
+      user="tim"
+      password="tim"
+      type="default,supl"
+  />
+
+  <apn carrier="TIM Connect"
+      mcc="724"
+      mnc="04"
+      apn="timbrasil.br"
+      user="tim"
+      password="tim"
+      type="default,supl"
+  />
+
+  <apn carrier="Java Session"
+      mcc="724"
+      mnc="05"
+      apn="java.claro.com.br"
+      user="claro"
+      password="claro"
+      type="default,supl"
+  />
+
+  <apn carrier="VIVO ZAP"
+      mcc="724"
+      mnc="06"
+      apn="zap.vivo.com.br"
+      user="vivo"
+      password="vivo"
+      type="default,supl"
+  />
+
+  <apn carrier="SCTL GPRS"
+      mcc="724"
+      mnc="07"
+      apn="sercomtel.com.br"
+      user="sercomtel"
+      password="sercomtel"
+      type="default,supl"
+  />
+
+  <apn carrier="Vivo Internet"
+      mcc="724"
+      mnc="10"
+      apn="zap.vivo.com.br"
+      user="vivo"
+      password="vivo"
+      type="default,supl"
+  />
+
+  <apn carrier="Vivo Internet"
+      mcc="724"
+      mnc="11"
+      apn="zap.vivo.com.br"
+      user="vivo"
+      password="vivo"
+      type="default,supl"
+  />
+
+  <apn carrier="BrT Internet"
+      mcc="724"
+      mnc="16"
+      apn="brt.br"
+      user="brt"
+      password="brt"
+      type="default,supl"
+  />
+
+  <apn carrier="TelemigC GPRS"
+      mcc="724"
+      mnc="19"
+      apn="gprs.telemigcelular.com.br"
+      user="celular"
+      password="celular"
+      type="default,supl"
+  />
+
+  <apn carrier="TelemigC GPRS"
+      mcc="724"
+      mnc="23"
+      apn="gprs.telemigcelular.com.br"
+      user="celular"
+      password="celular"
+      type="default,supl"
+  />
+
+  <apn carrier="OI GPRD"
+      mcc="724"
+      mnc="31"
+      apn="gprs.oi.com.br"
+      type="default,supl"
+  />
+
+  <apn carrier="Internet Movil"
+      mcc="730"
+      mnc="01"
+      apn="bam.entelpcs.cl"
+      user="entelpcs"
+      password="entelpcs"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet Movil"
+      mcc="730"
+      mnc="010"
+      apn="bam.entelpcs.cl"
+      user="entelpcs"
+      password="entelpcs"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="NEM"
+      mcc="730"
+      mnc="02"
+      apn="wap.tmovil.cl"
+      proxy="172.17.8.11"
+      port="8080"
+      user="wap"
+      password="wap"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="BAM Claro"
+      mcc="730"
+      mnc="03"
+      apn="bam.clarochile.cl"
+      user="clarochile"
+      password="clarochile"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet Movil"
+      mcc="730"
+      mnc="10"
+      apn="bam.entelpcs.cl"
+      user="entelpcs"
+      password="entelpcs"
+      proxy="10.99.0.10"
+      port="8080"
+      type="default,supl"
+  />
+
+  <apn carrier="WEB EPCS"
+      mcc="730"
+      mnc="10"
+      apn="imovil.entelpcs.cl"
+      user="entelpcs"
+      password="entelpcs"
+      type="default,supl"
+  />
+
+  <apn carrier="WEB Comcel 3GSM"
+      mcc="732"
+      mnc="101"
+      apn="internet.comcel.com.co"
+      user="COMCELWEP"
+      password="COMCELWEP"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="TIGO WEB"
+      mcc="732"
+      mnc="103"
+      apn="web.colombiamovil.com.co"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="TIGO WEB"
+      mcc="732"
+      mnc="111"
+      apn="web.colombiamovil.com.co"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="movistar INTERNET"
+      mcc="732"
+      mnc="123"
+      apn="internet.movistar.com.co"
+      user="movistar"
+      password="movistar"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="movistar INTERNET"
+      mcc="740"
+      mnc="00"
+      apn="internet.movistar.com.ec"
+      user="movistar"
+      password="movistar"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="PORTA INTERNET"
+      mcc="740"
+      mnc="01"
+      apn="internet.porta.com.ec"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="PORTA INTERNET"
+      mcc="740"
+      mnc="010"
+      apn="internet.porta.com.ec"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Internet Alegro"
+      mcc="740"
+      mnc="02"
+      apn="internet.alegro.net.ec"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Claro PY"
+      mcc="744"
+      mnc="02"
+      apn="igprs.claro.com.py"
+      user="ctigprs"
+      password="ctigprs999"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="TIGO PY"
+      mcc="744"
+      mnc="04"
+      apn="internet.tigo.py"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+
+  <apn carrier="wapANCEL"
+      mcc="748"
+      mnc="01"
+      apn="wap"
+      proxy="200.40.246.2"
+      port="3128"
+      user=""
+      password=""
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Movistar Internet"
+      mcc="748"
+      mnc="07"
+      apn="apnumt.movistar.com.uy"
+      user="movistar"
+      password="movistar"
+      type="default,supl,dun"
+  />
+
+  <apn carrier="Claro UY"
+      mcc="748"
+      mnc="10"
+      apn="igprs.claro.com.uy"
+      user="ctigprs"
+      password="ctigprs999"
+      type="default,supl,dun"
+  />
+
+</apns>
