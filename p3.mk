@@ -24,7 +24,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/modules/dhd.ko:system/lib/modules/dhd.ko \
     $(LOCAL_PATH)/modules/cifs.ko:system/lib/modules/cifs.ko \
-    $(LOCAL_PATH)/modules/ntfs.ko:system/lib/modules/ntfs.ko
+    $(LOCAL_PATH)/modules/ntfs.ko:system/lib/modules/ntfs.ko \
+    $(LOCAL_PATH)/modules/nls_utf8.ko:system/lib/modules/nls_utf8.ko
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/ril/cbd:root/sbin/cbd \
