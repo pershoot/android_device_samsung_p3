@@ -28,6 +28,3 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 14200340480
 TARGET_PREBUILT_KERNEL := device/samsung/p3/kernel
 
 SMALLER_FONT_FOOTPRINT := true
-
-# Override cyanogenmod squisher to customize our update zip package
-TARGET_CUSTOM_RELEASETOOL := device/samsung/p3/releasetools/squisher
