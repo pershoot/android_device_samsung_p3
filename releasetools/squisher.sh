@@ -93,10 +93,16 @@ rm -f $REPACK/ota/system/media/audio/ringtones/Themos.ogg
 rm -f $REPACK/ota/system/media/audio/ringtones/UrsaMinor.ogg
 rm -f $REPACK/ota/system/media/audio/ringtones/Vespa.ogg
 rm -f $REPACK/ota/system/media/audio/ringtones/Zeta.ogg
+rm -f $REPACK/ota/system/tts/lang_pico/de-DE_gl0_sg.bin
+rm -f $REPACK/ota/system/tts/lang_pico/de-DE_ta.bin
 rm -f $REPACK/ota/system/tts/lang_pico/en-GB_kh0_sg.bin
 rm -f $REPACK/ota/system/tts/lang_pico/en-GB_ta.bin
+rm -f $REPACK/ota/system/tts/lang_pico/es-ES_ta.bin
+rm -f $REPACK/ota/system/tts/lang_pico/es-ES_zl0_sg.bin
 rm -f $REPACK/ota/system/tts/lang_pico/fr-FR_nk0_sg.bin
 rm -f $REPACK/ota/system/tts/lang_pico/fr-FR_ta.bin
+rm -f $REPACK/ota/system/tts/lang_pico/it-IT_cm0_sg.bin
+rm -f $REPACK/ota/system/tts/lang_pico/it-IT_ta.bin
 rm -f $REPACK/ota/system/xbin/rsync
 rm -f $REPACK/ota/system/xbin/vim
 rm -rf $REPACK/ota/system/usr/share/vim
