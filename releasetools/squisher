@@ -67,10 +67,6 @@ if [ "$TARGET_PRODUCT" = "cm_p3" ]; then
         . $ANDROID_BUILD_TOP/device/samsung/p3/releasetools/squisher.sh
 fi
 
-# Strip modules
-[ -d $REPACK/ota/system/lib/modules ] && \
-        find $REPACK/ota/system/lib/modules -name "*.ko" -print0 | $XARGS -0 arm-eabi-strip --strip-unneeded
-
 # Pack it up
 printf "Zipping package..."
 ( cd $REPACK/ota; zip $QUIET -r $REPACK/update.zip .; mv -f $REPACK/update.zip $OTAPACKAGE )
